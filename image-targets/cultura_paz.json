@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 29,
+    "width": 960,
+    "height": 1280,
+    "isRotated": false,
+    "originalWidth": 1019,
+    "originalHeight": 1280
+  },
+  "imagePath": "image-targets/cultura_paz_luminance.jpg",
+  "metadata": null,
+  "name": "cultura_paz",
+  "resources": {
+    "originalImage": "cultura_paz_original.jpg",
+    "croppedImage": "cultura_paz_cropped.jpg",
+    "thumbnailImage": "cultura_paz_thumbnail.jpg",
+    "luminanceImage": "cultura_paz_luminance.jpg"
+  },
+  "created": 1786558035246,
+  "updated": 1786558035246
+}
